@@ -2,4 +2,4 @@ bin
 include
 lib
 *.cfg
-.coderecorder
+.codeplayback
