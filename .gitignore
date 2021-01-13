@@ -3,3 +3,5 @@ include
 lib
 *.cfg
 .codeplayback
+
+.DS_Store
