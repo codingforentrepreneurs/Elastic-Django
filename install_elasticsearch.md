@@ -22,3 +22,7 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 brew tap elastic/tap
 brew install elastic/tap/elasticsearch-full
 ```
+
+```
+elasticsearch -E http.port=9231 -E transport.tcp.port=9332
+```

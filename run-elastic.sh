@@ -1,0 +1,1 @@
+elasticsearch -E http.port=9231 -E transport.tcp.port=9332
