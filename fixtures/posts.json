@@ -1,0 +1,53 @@
+[
+    {
+        "model": "posts.post",
+        "pk": 1,
+        "fields": {
+            "title": "Tesla Might Finally Have Some Competition. From Ford.",
+            "content": "\nA few weeks before Christmas, San Tan Ford, a dealership in the Phoenix area, invited car buyers to gawk at the Mustang Mach-E, a highly anticipated electric car that Ford Motor recently started selling.\n\nThe event drew some 200 people, many driving BMWs, Audis, Subarus and other brands San Tan rarely gets as trade-ins. Ten people put down deposits for a Mach-E — including three who arrived in Teslas.\n\n“Just overwhelming, the level of excitement and enthusiasm,” San Tan’s owner, Tim Hovik, said. “When you drive this thing, the performance is, like, wow.”\n",
+            "timestamp": "2021-01-16T00:32:24.284Z",
+            "publish": null
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 2,
+        "fields": {
+            "title": "ESPN’s Michael Kay ‘shocked’ by Yankees, DJ LeMahieu deal",
+            "content": "Michael Kay sounded like many in the Yankees universe.\n\nHe couldn’t believe what a great deal New York got for free agent second baseman DJ LeMahieu.\n\nIntroducing Yankees Insider: Get exclusive news, behind-the-scenes observations and the ability to text message directly with beat writers\n\nKay, while on his ESPN Radio show, said he was “shocked” that the Yankees were able to re-sign the 32-year-old for $90 million over six years. The sides came to the agreement Friday morning.\n\n\n“Now, think about why I say shocked,” said Kay, who’s also the YES Network’s lead Yankees play-by-play man. “DJ LeMahieu won the batting title last year. DJ LeMahieu has finished in the top five in the MVP (race) in the two years that he played for the Yankees. And in those two years that he played to the Yankees, he had a two-year, $24 million deal. So, you do the math. Again, that’s $12 million a year. So, for being one of the best players in baseball — great defender, great base runner, clutch hitter, even in the postseason, which the Yankees have lacked. DJ LeMahieu got a $3 million raise. Think about that. Because to be just taking the offer that the Yankees gave him for arbitration, he would have gotten something close to $19 million for just one year. So the Yankees got one of the better players in baseball for $15 million a year.”",
+            "timestamp": "2021-01-16T00:33:20.596Z",
+            "publish": null
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 3,
+        "fields": {
+            "title": "Sony's First PlayStation 5 Restock of 2021 Instantly Sells Out",
+            "content": "Times are tough for those still struggling to get their hands on Sony‘s next-gen PlayStation 5. On January 14, the Sony Rewards Twitter account announced a limited PS5 restock for the next day, sparking much excitement amongst fans craving the ballyhooed console. True to its word, the account issued a link to Sony’s website just prior to 12 PM, granting those who clicked through access to small number of consoles, which came with an extra controller.\n\nUnsurprisingly, the consoles instantly sold out. Surprisingly, the PlayStation 5 consoles could only be purchased by exchanging Sony Rewards points — appropriate given the account that teased the restock but an unusual hurdle nonetheless.\n\nWeighing in at an imposing sum of 56,998 points and limited to one unit per member, Sony may have anticipated the consoles lasting longer than they did, considering the clock on the landing page that is still ticking down from 15 hours, despite all consoles being gone. If nothing else, the resounding demand is demonstrative of a tight supply incapable of satisfying the immense demand.",
+            "timestamp": "2021-01-16T00:34:16.622Z",
+            "publish": null
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 4,
+        "fields": {
+            "title": "Ethan Hawke to Play Villain Opposite Oscar Isaac in Marvel's 'Moon Knight'",
+            "content": "Isaac is toplining the show, featuring one of Marvel’s cult characters, that is aiming for a March production start in Budapest.\nEthan Hawke has made his Marvel.\n\nMaking his comic book adaptation and superhero debut, Hawke has closed a deal to join Oscar Isaac in Moon Knight, Marvel Studios’ series for Disney+, sources tell The Hollywood Reporter. \n\n",
+            "timestamp": "2021-01-16T00:35:39.581Z",
+            "publish": null
+        }
+    },
+    {
+        "model": "posts.post",
+        "pk": 5,
+        "fields": {
+            "title": "NASA's Orion spacecraft is ready to fly to the Moon",
+            "content": "Lockheed Martin’s Orion spacecraft is one tangible step closer to taking people back to the Moon. The aerospace giant has completed assembly and testing of the Orion ship, and has transferred it to NASA ahead of the Artemis I test mission later in 2021. At this point, it’s just a matter of final prep work that includes loading propellants, integrating the launch abort system, and mounting the ship atop the SLS rocket.\n\nArtemis I is an uncrewed mission. Orion will orbit the Moon to help verify both its own systems as well as those of the SLS and ground teams ahead of Artemis II, the first mission with astronauts aboard. It’s not until Artemis III that people will return to the lunar surface.\n\nWhile this is an important moment, it comes as questions are surfacing about the Artemis program’s future. The latest budget from Congress already falls short of the funding needed for a 2024 Moon landing, and the incoming Biden administration isn’t likely to prioritize Artemis when the pandemic response and economic recovery will take center stage. Artemis I is likely to move forward — just don’t be surprised if Orion doesn’t get much use for a while after that.",
+            "timestamp": "2021-01-16T00:36:31.264Z",
+            "publish": null
+        }
+    }
+    ]
+    

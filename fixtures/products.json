@@ -1,0 +1,52 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "title": "Mixer",
+            "description": "Attaches to Power Hub Of your stand mixer and uses the power of the motor to run the attachment\nFits all Household KitchenAid Stand Mixers\nWith 6 quick-change blades and an optional peeling blade to inspire healthy versions of classic recipes and unleash your culinary potential\n3 Spiraling Blades - Medium, Fine, and Extra Fine; 3 Slicing Blades - Slicing (Large Core), Slicing (Small Core), and Thin Slice (Small Core); Peeling Blade\nAll Blades are dishwasher safe on the top rack. The body can be wiped clean with a warm damp cloth",
+            "timestamp": "2018-09-18T19:29:03.347Z",
+            "publish": "2019-09-18T19:29:03.347Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "title": "Camera",
+            "description": "Slim body size with transparent ring lens\nAutomatic Exposure - The Mini 11 automatically selects the optimal shutter speed in any environment. Mini 11 captures bright backgrounds and bright subjects, even in dark scenes.\n1-touch Selfie Mode – the Mini 11 has a built-in macro mode and a selfie mirror for the perfect selfie. You don’t need a close-up lens attachment. Just pull out the lens barrel until the “Selfie Mode” mark appears\nCustomize your camera - 2 shutter button accessories are included - Jewel button and a glow button.\n2 - AA batteries",
+            "timestamp": "2018-09-18T19:29:03.347Z",
+            "publish": "2019-09-18T19:29:03.347Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "title": "Sweat pants",
+            "description": "50% Cotton, 50% Polyester\nImported\nMachine Wash\n50 percent cotton/50 percent polyester fleece, with up to 5 percent made from recycled plastic bottles\nConvenient side seam pockets\nInside draw cord for secure fit\nOpen hem pant legs for a relaxed look\nMachine wash cold with like colors; non chlorine bleach when needed; tumble dry medium\n",
+            "timestamp": "2018-09-18T19:29:03.347Z",
+            "publish": "2019-09-18T19:29:03.347Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 5,
+        "fields": {
+            "title": "Tent",
+            "description": "Fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+            "timestamp": "2018-09-18T19:29:03.347Z",
+            "publish": "2021-05-18T19:29:03.347Z"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 6,
+        "fields": {
+            "title": "Cars",
+            "description": "Lightning McQueen is living in the fast lane - until he hits a detour and gets stranded in Radiator Springs; a forgotten town on Route 66. There he meets a heap of hilarious characters who help him discover there's more to life than fame.",
+            "timestamp": "2021-01-16T00:04:55.698Z",
+            "publish": null
+        }
+    }
+]
