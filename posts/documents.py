@@ -15,6 +15,7 @@ class PostDocument(Document):
     class Django:
         model = Post
         fields = [
+            'id',
             'title',
             'content'
         ]
