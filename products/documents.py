@@ -13,6 +13,7 @@ class ProductDocument(Document):
         name='products'
     url = fields.TextField(attr='get_absolute_url')
     content = fields.TextField(attr='description')
+    score = fields.FloatField(attr='elastic_score')
     class Django:
         model = Product
         fields = [

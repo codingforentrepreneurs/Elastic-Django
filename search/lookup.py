@@ -13,7 +13,7 @@ INDEXES = [
 ]
 
 
-def perform_lookup(query, index=INDEXES, fields = ['title', 'content']):
+def perform_lookup(query, index=INDEXES, fields = ['title', 'content'], internal_sort=True):
     if not query:
         return
     search_results = Search(
@@ -21,16 +21,18 @@ def perform_lookup(query, index=INDEXES, fields = ['title', 'content']):
         fields=fields,  fuzziness='AUTO', query=query)
     results = []
     for hit in search_results:
-        print(hit.id)
-        print(hit.title)
-        print(hit.meta.index)
-        print(hit.meta.score)
+        elasticsearch_score = hit.meta.score
+        hit_score = hit.score
         data = {
             "id": hit.id,
             "title": hit.title,
             "index": hit.meta.index,
             "content": hit.content,
+            "score": elasticsearch_score * hit_score,
             "url": hit.url,
         }
+        print(data)
         results.append(data)
+    if internal_sort:
+        results = sorted(results, key=lambda x: x['score'], reverse=True)
     return results

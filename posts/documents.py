@@ -12,6 +12,7 @@ class PostDocument(Document):
         '''
         name='posts'
     url = fields.TextField(attr='get_absolute_url')
+    score = fields.FloatField(attr='elastic_score')
     class Django:
         model = Post
         fields = [

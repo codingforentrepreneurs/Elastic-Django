@@ -9,3 +9,7 @@ class Post(models.Model):
 
     def get_absolute_url(self):
         return f"posts/{self.id}"
+    
+    @property
+    def elastic_score(self):
+        return 0.75
