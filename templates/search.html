@@ -1,0 +1,13 @@
+<form>
+    <input type='text' name='q' />
+    <input type='submit' value='Search'/>
+</form>
+
+{{ query }}
+
+<ul>
+{% for result in results %}
+<li><a href='{{ result.url }}'>{{ result.title }}</a> {{ result.index }}</li>
+
+{% endfor %}
+</ul>
